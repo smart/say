@@ -22,7 +22,9 @@ Gem::Specification.new do |s|
      "LICENSE",
      "README.rdoc",
      "Rakefile",
+     "VERSION",
      "lib/say.rb",
+     "say.gemspec",
      "spec/say_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
