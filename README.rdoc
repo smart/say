@@ -1,30 +1,25 @@
 = say
 
 Instead of printing your statements(Kernel.p), you can say them(Kernel.say)!
+OS X has many build in voices you can use one of them by calling say_as(voice, args)
 Inspired by jugyo's g gem.
 
-License
+Requirements
 --------
 
-(The MIT License)
+Must be on os x >= 1.4
 
-Copyright (c) 2008-2009 jugyo
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+TODO
+--------
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+Support more OSs
+Detect Error codes returned by shell call
+Ensure OS X detection is correct
 
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Contact
+--------
+
+Have fun with the gem, fork at will. 
+Contact me (Steve Martocci) if you have any trouble or feedback.  
+Visit my blog at www.ragingonrails.com

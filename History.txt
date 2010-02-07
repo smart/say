@@ -1,0 +1,10 @@
+== 0.2.0
+
+  * New Features
+    * Say now support multiple voices via say_as
+    * Say now checks that you are using os x
+
+
+=== 0.1.0
+  * New Features
+    * Say works
